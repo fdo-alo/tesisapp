@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="User data"
+        android:key="usuariopertitle">
+
+        <EditTextPreference
+            android:title="User name"
+            android:key="nombreperkey"
+            android:dialogTitle="Nombre"
+            android:dialogMessage="Escribe tu nombre"/>
+
+
+    </PreferenceCategory>
+
+
+    <PreferenceCategory
+        android:title="Movie genres"
+        android:key="genpertitle">
+
+    <CheckBoxPreference
+        android:key="action"
+        android:title="Action"
+        android:defaultValue="false"/>
+
+    <CheckBoxPreference
+        android:key="adventure"
+        android:title="Adventure"
+        android:defaultValue="false"/>
+
+    <CheckBoxPreference
+        android:key="animation"
+        android:title="Animation"
+        android:defaultValue="false"/>
+
+    <CheckBoxPreference
+        android:key="biography"
+        android:title="Biography"
+        android:defaultValue="false"/>
+
+    <CheckBoxPreference
+        android:key="comedy"
+        android:title="Comedy"
+        android:defaultValue="false"/>
+
+    <CheckBoxPreference
+        android:key="crime"
+        android:title="Crime"
+        android:defaultValue="false"/>
+
+    <CheckBoxPreference
+        android:key="documentary"
+        android:title="Documentary"
+        android:defaultValue="false"/>
+
+    <CheckBoxPreference
+        android:key="drama"
+        android:title="Drama"
+        android:defaultValue="false"/>
+
+    <CheckBoxPreference
+        android:key="family"
+        android:title="Family"
+        android:defaultValue="false"/>
+
+    <CheckBoxPreference
+        android:key="fantasy"
+        android:title="Fantasy"
+        android:defaultValue="false"/>
+
+
+    <CheckBoxPreference
+        android:key="history"
+        android:title="History"
+        android:defaultValue="false"/>
+
+    <CheckBoxPreference
+        android:key="horror"
+        android:title="Horror"
+        android:defaultValue="false"/>
+
+    <CheckBoxPreference
+        android:key="music"
+        android:title="Music"
+        android:defaultValue="false"/>
+
+    <CheckBoxPreference
+        android:key="musical"
+        android:title="Musical"
+        android:defaultValue="false"/>
+
+    <CheckBoxPreference
+        android:key="mystery"
+        android:title="Mystery"
+        android:defaultValue="false"/>
+
+    <CheckBoxPreference
+        android:key="romance"
+        android:title="Romance"
+        android:defaultValue="false"/>
+
+    <CheckBoxPreference
+        android:key="sci-fi"
+        android:title="Sci-Fi"
+        android:defaultValue="false"/>
+
+    <CheckBoxPreference
+        android:key="sport"
+        android:title="Sport"
+        android:defaultValue="false"/>
+
+    <CheckBoxPreference
+        android:key="thriller"
+        android:title="Thriller"
+        android:defaultValue="false"/>
+
+    <CheckBoxPreference
+        android:key="war"
+        android:title="War"
+        android:defaultValue="false"/>
+
+    <CheckBoxPreference
+        android:key="western"
+        android:title="Western"
+        android:defaultValue="false"/>
+
+
+    </PreferenceCategory>
+
+
+
+</PreferenceScreen><!-- From: file:/C:/Users/Fernando/Documents/Android%20Projects/TesisMaestria/app/src/main/res/xml/settings.xml -->
