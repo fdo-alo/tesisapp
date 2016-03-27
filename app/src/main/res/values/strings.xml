@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tesis Maestria</string>
+    <string name="radar">"Radar "</string>
+    <string name="ra">Realidad\nAumentada</string>
+    <string name="str_perfil">Perfil de usuario</string>
+    <string name="title_activity_cartelera">CarteleraActivity</string>
+
+</resources>
