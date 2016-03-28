@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed May 02 16:49:02 CEST 2012
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=appunta-1.0.1.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<jar|annotations.jar>;<jar|android.jar>
+includes=
